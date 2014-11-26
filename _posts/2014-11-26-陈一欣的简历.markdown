@@ -16,7 +16,7 @@ categories:     yxcxx
 * 期望城市:杭州,南京
 
 ### 技能清单
-* Python已经Tornado框架
+* Python以及Tornado框架
 * 了解Mysql
 * nginx基本配置
 * 熟悉Linux,能在Linux下进行开发工作
