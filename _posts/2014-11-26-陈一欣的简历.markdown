@@ -6,16 +6,16 @@ summary:        陈一欣的个人简历
 categories:     yxcxx
 ---
 
-### 联系方式
+#### 联系方式
 * *邮箱*:mychenyixin@gmail.com, yxc.xx@aliyun.com
 * *手机*:13275755920(合肥)
 
-### 个人信息
+#### 个人信息
 * 陈一欣/男/1993
 * 安徽建筑大学/网络工程/2015届
 * 期望城市:杭州,南京
 
-### 技能清单
+#### 技能清单
 * Python以及Tornado框架
 * 了解Mysql
 * nginx基本配置
@@ -24,5 +24,5 @@ categories:     yxcxx
 * 熟悉Http协议
 * 其他小技能:ssh,sftp,Vim,MarkDown,gihub.
 
-### 项目经验
+#### 项目经验
 暂无
