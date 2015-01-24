@@ -5,3 +5,4 @@ permalink: /about/
 ---
 
 This is [yxc's](https://yxcxx.github.com) blog
+如有侵权，立即删除
